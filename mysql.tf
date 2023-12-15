@@ -3,7 +3,7 @@ terraform {
   required_providers {
     mysql = {
       source  = "petoju/mysql"
-      version = "3.0.36"
+      version = "3.0.43"
     }
   }
 }
