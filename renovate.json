@@ -9,5 +9,9 @@
       "groupName": "terraform",
       "groupSlug": "terraform-all"
     }
-  ]
+  ],
+  "lockFileMaintenance": {
+    "enabled": true,
+    "schedule": "before 4am on the first day of the month"
+  }
 }
